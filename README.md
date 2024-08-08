@@ -1,4 +1,8 @@
 # Jober
+<p align="center">
+  <img src="job-search.png">
+</p>
+
 This Python script automates the process of scraping entry-level job listings from the [iSecJobs](https://isecjobs.com/) website.  
 The script fetches the latest job postings at regular intervals and writes them to timestamped text files, making it easier to monitor and track job opportunities in the cybersecurity field.
 

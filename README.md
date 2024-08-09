@@ -22,7 +22,9 @@ The script fetches the latest job postings at regular intervals and writes them 
     python jober.py
  ```
 3. **Check Output**: The job postings are saved in the `job_posts` directory, with each file named according to the timestamp of when it was created.
-   ![jober_output.png]
+  <p align="center">
+  <img src="jober_output.png">
+</p>
 
 ## Customization:
 - **Interval Time**: Adjust the `waiting_time` variable to change how frequently the script fetches job listings.

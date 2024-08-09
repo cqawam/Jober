@@ -1,351 +1,500 @@
 Job 1:
+Company:	 Sonatype  Remote-first
+Job Title:	 Renewal Specialist
+Location:	 US - Remote
+Skills:		 Compliance, DevOps, DevSecOps, Java, Malware, Maven, Open Source
+Salary:		 USD 35K - 83K *
+More info:	 https://isecjobs.com/job/348354-renewal-specialist/
+
+--------------------------------------------------
+
+Job 2:
+Company:	 Barbaricum
+Job Title:	 Systems Analyst
+Location:	 Remote
+Skills:		 ACAS, Analytics, Artificial Intelligence, Audits, C, Clearance, Clearance Required, +19
+Salary:		 USD 32K - 76K *
+More info:	 https://isecjobs.com/job/348306-systems-analyst/
+
+--------------------------------------------------
+
+Job 3:
+Company:	 Barbaricum
+Job Title:	 Information Security Analyst
+Location:	 Remote
+Skills:		 ACAS, Analytics, Audits, C, CISSP, Clearance, Clearance Required, +17
+Salary:		 USD 47K - 88K *
+More info:	 https://isecjobs.com/job/347740-information-security-analyst/
+
+--------------------------------------------------
+
+Job 4:
+Company:	 Rhebo
+Job Title:	 Service Engineer Cyber Security (m/w/d)
+Location:	 Deutschland - Remote
+Skills:		 Industrial, Monitoring
+Salary:		 EUR 23K - 54K *
+More info:	 https://isecjobs.com/job/347567-service-engineer-cyber-security-mwd/
+
+--------------------------------------------------
+
+Job 5:
+Company:	 CloudCommand
+Job Title:	 Cybersecurity Referent (m/w/d)
+Location:	 Deutschland - Remote
+Skills:		 Cloud, DNS, Hyper-V, Linux, PowerShell, Teaching, VirtualBox, +1
+Salary:		 EUR 23K - 54K *
+More info:	 https://isecjobs.com/job/347560-cybersecurity-referent-mwd/
+
+--------------------------------------------------
+
+Job 6:
+Company:	 CloudCommand
+Job Title:	 Werkstudent Teaching Assistant im Bereich Cyber Security & Systemadministration (m/w/d)
+Location:	 Deutschland - Remote
+Skills:		 Computer Science, Java, Pentesting, Python, Teaching, Windows
+Salary:		 Not Specified
+More info:	 https://isecjobs.com/job/347558-werkstudent-teaching-assistant-im-bereich-cyber-security-systemadministration-mwd/
+
+--------------------------------------------------
+
+Job 7:
+Company:	 Spry Methods
+Job Title:	 Cybersecurity Analyst
+Location:	 Washington, DC (Remote)
+Skills:		 Agile, Audits, CISO, CISSP, Compliance, DoD, DoDD 8570, +17
+Salary:		 USD 54K - 102K *
+More info:	 https://isecjobs.com/job/347554-cybersecurity-analyst/
+
+--------------------------------------------------
+
+Job 8:
+Company:	 BRL Risk Consulting GmbH & Co. KG
+Job Title:	 Consultant (m/w/d) im Bereich Cyber Security
+Location:	 Standort flexibel
+Skills:		 CMMC, ISO 27001, Security assessment, TISAX
+Salary:		 EUR 42K - 78K *
+More info:	 https://isecjobs.com/job/343145-consultant-mwd-im-bereich-cyber-security/
+
+--------------------------------------------------
+
+Job 9:
+Company:	 BRL Risk Consulting GmbH & Co. KG
+Job Title:	 Praktikant im Bereich Cyber Security (m/w/d)
+Location:	 Standort flexibel
+Skills:		 Network security, Pentesting
+Salary:		 Not Specified
+More info:	 https://isecjobs.com/job/343144-praktikant-im-bereich-cyber-security-mwd/
+
+--------------------------------------------------
+
+Job 10:
 Company:	 RSI Security
 Job Title:	 Cybersecurity Compliance Support Analyst
 Location:	 United States - Remote
-Skills:		 Audits, CCPA, CISA, CISM, CISSP, CMMC, Compliance
+Skills:		 Audits, CCPA, CISA, CISM, CISSP, CMMC, Compliance, +12
 Salary:		 USD 50K - 90K
 More info:	 https://isecjobs.com/job/341411-cybersecurity-compliance-support-analyst/
-Job 2:
+
+--------------------------------------------------
+
+Job 11:
 Company:	 Cyberhaven
 Job Title:	 Data Protection Analyst
 Location:	 US Remote
-Skills:		 CASB, Cloud, CrowdStrike, Incident response, Linux, MacOS, Monitoring
+Skills:		 CASB, Cloud, CrowdStrike, Incident response, Linux, MacOS, Monitoring, +5
 Salary:		 USD 35K - 83K *
 More info:	 https://isecjobs.com/job/341083-data-protection-analyst/
-Job 3:
+
+--------------------------------------------------
+
+Job 12:
 Company:	 Flashpoint
 Job Title:	 Corporate Security Intelligence Analyst II
 Location:	 Remote in the United States
-Skills:		 Open Source, Threat intelligence
+Skills:		 Open Source, Threat intelligence, TTPs
 Salary:		 USD 32K - 76K *
 More info:	 https://isecjobs.com/job/334247-corporate-security-intelligence-analyst-ii/
-Job 4:
+
+--------------------------------------------------
+
+Job 13:
 Company:	 Flashpoint
 Job Title:	 Corporate Security Intelligence Analyst II
 Location:	 Remote in Canada
-Skills:		 Open Source, Threat intelligence
+Skills:		 Open Source, Threat intelligence, TTPs
 Salary:		 CAD 46K - 108K *
 More info:	 https://isecjobs.com/job/334246-corporate-security-intelligence-analyst-ii/
-Job 5:
+
+--------------------------------------------------
+
+Job 14:
 Company:	 Blackpoint Cyber
 Job Title:	 Junior Detection Engineer
 Location:	 Remote - United States
-Skills:		 Blue team, Business Intelligence, C, Computer Science, DFIR, Elasticsearch, Forensics
+Skills:		 Blue team, Business Intelligence, C, Computer Science, DFIR, Elasticsearch, Forensics, +8
 Salary:		 USD 40K - 50K
 More info:	 https://isecjobs.com/job/333984-junior-detection-engineer/
-Job 6:
+
+--------------------------------------------------
+
+Job 15:
 Company:	 Box
 Job Title:	 Security Analyst I
 Location:	 London, England, United Kingdom
-Skills:		 Analytics, Automation, AWS, CEH, CI/CD, CISSP, Cloud
+Skills:		 Analytics, Automation, AWS, CEH, CI/CD, CISSP, Cloud, +25
 Salary:		 GBP 29K - 55K *
 More info:	 https://isecjobs.com/job/333865-security-analyst-i/
-Job 7:
+
+--------------------------------------------------
+
+Job 16:
 Company:	 LeafLink
 Job Title:	 Information Security Analyst
 Location:	 Remote
-Skills:		 Antivirus, AWS, CISM, CISSP, Compliance, CompTIA, Computer Science
+Skills:		 Antivirus, AWS, CISM, CISSP, Compliance, CompTIA, Computer Science, +18
 Salary:		 USD 55K - 80K
 More info:	 https://isecjobs.com/job/333864-information-security-analyst/
-Job 8:
+
+--------------------------------------------------
+
+Job 17:
 Company:	 Cutover
 Job Title:	 Information Security Analyst (Fixed Term Contract)
 Location:	 London
-Skills:		 Audits, Automation, Cloud, Compliance, Governance, ISO 27001, Privacy
+Skills:		 Audits, Automation, Cloud, Compliance, Governance, ISO 27001, Privacy, +5
 Salary:		 GBP 45K - 55K
 More info:	 https://isecjobs.com/job/333862-information-security-analyst-fixed-term-contract/
-Job 9:
+
+--------------------------------------------------
+
+Job 18:
 Company:	 CloudWalk
 Job Title:	 Security Operations Analyst
 Location:	 São Paulo
-Skills:		 Bash, Incident response, Monitoring, PowerShell, Python, Scripting, SecOps
+Skills:		 Bash, Incident response, Monitoring, PowerShell, Python, Scripting, SecOps, +1
 Salary:		 USD 23K - 43K *
 More info:	 https://isecjobs.com/job/333666-security-operations-analyst/
-Job 10:
-Company:	 Maveris
-Job Title:	 Red Team Operations Analyst
-Location:	 Washington, District of Columbia, United States - …
-Skills:		 Audits, CEH, Compliance, Computer Science, Offensive security, Pentesting, Red team
-Salary:		 USD 35K - 83K *
-More info:	 https://isecjobs.com/job/333660-red-team-operations-analyst/
-Job 11:
+
+--------------------------------------------------
+
+Job 19:
 Company:	 QuoIntelligence
 Job Title:	 Cyber Threat Intelligence Analyst Intern (m/f/x) - Remote anywhere in Italy
 Location:	 Rome, Italy
-Skills:		 Computer Science, Cyber crime, Monitoring, OSINT, Scripting, Threat intelligence
+Skills:		 Computer Science, Cyber crime, Monitoring, OSINT, Scripting, Threat intelligence, TTPs
 Salary:		 Not Specified
 More info:	 https://isecjobs.com/job/329974-cyber-threat-intelligence-analyst-intern-mfx-remote-anywhere-in-italy/
-Job 12:
+
+--------------------------------------------------
+
+Job 20:
 Company:	 Dexcom  Remote-first
 Job Title:	 Lead Internal Auditor (IT)
 Location:	 Remote Ireland
-Skills:		 Analytics, Application security, Audits, Azure, Business Intelligence, CIA, CISA
+Skills:		 Analytics, Application security, Audits, Azure, Business Intelligence, CIA, CISA, +18
 Salary:		 EUR 23K - 54K *
 More info:	 https://isecjobs.com/job/329631-lead-internal-auditor-it/
-Job 13:
+
+--------------------------------------------------
+
+Job 21:
 Company:	 Logistics Management Institute
 Job Title:	 Junior SAP/ERP Logistics Solutions Architect - Clearance Required
 Location:	 Remote, United States
-Skills:		 Audits, AWS, Clearance, Clearance Required, Cloud, Computer Science, DoD
+Skills:		 Audits, AWS, Clearance, Clearance Required, Cloud, Computer Science, DoD, +14
 Salary:		 USD 35K - 83K *
 More info:	 https://isecjobs.com/job/328603-junior-saperp-logistics-solutions-architect-clearance-required/
-Job 14:
+
+--------------------------------------------------
+
+Job 22:
 Company:	 Foundever
 Job Title:	 Analyst IT Security
 Location:	 Remote, Any Location, United States of America
-Skills:		 Agile, Audits, CISA, CISM, CISSP, Governance
+Skills:		 Agile, Audits, CISA, CISM, CISSP, Governance, SLAs
 Salary:		 USD 32K - 76K *
 More info:	 https://isecjobs.com/job/328311-analyst-it-security/
-Job 15:
+
+--------------------------------------------------
+
+Job 23:
 Company:	 J. J. Keller & Associates, Inc.  Remote-first
 Job Title:	 Governance Risk & Compliance Analyst (ISO 27001)
 Location:	 Milwaukee, WI, US, 53204
-Skills:		 Analytics, Audits, Compliance, Data Analytics, Governance, ISO 27001, Monitoring
+Skills:		 Analytics, Audits, Compliance, Data Analytics, Governance, ISO 27001, Monitoring, +3
 Salary:		 USD 63K - 78K
 More info:	 https://isecjobs.com/job/328232-governance-risk-compliance-analyst-iso-27001/
-Job 16:
+
+--------------------------------------------------
+
+Job 24:
 Company:	 RapDev
 Job Title:	 Security Operations Center (SOC) Analyst
 Location:	 Boston, Massachusetts, United States; Remote
-Skills:		 Cloud, DevOps, Incident response, Monitoring, SecOps, SIEM, SOC
+Skills:		 Cloud, DevOps, Incident response, Monitoring, SecOps, SIEM, SOC, +2
 Salary:		 USD 35K - 83K *
 More info:	 https://isecjobs.com/job/327646-security-operations-center-soc-analyst/
-Job 17:
+
+--------------------------------------------------
+
+Job 25:
 Company:	 GitLab  Remote-first
 Job Title:	 Internal Auditor (India)
 Location:	 Remote, India
-Skills:		 Analytics, Audits, CISA, CISM, CISSP, Computer Science, Data Analytics
+Skills:		 Analytics, Audits, CISA, CISM, CISSP, Computer Science, Data Analytics, +5
 Salary:		 USD 16K - 38K *
 More info:	 https://isecjobs.com/job/327081-internal-auditor-india/
-Job 18:
+
+--------------------------------------------------
+
+Job 26:
 Company:	 Binary Defense
 Job Title:	 SOC Analyst (Splunk ES) - REMOTE
 Location:	 Houston, TX, US
-Skills:		 Carbon Black, CrowdStrike, Cyber Kill Chain, Endpoint security, Incident response, MITRE ATT&CK, SIEM
+Skills:		 Carbon Black, CrowdStrike, Cyber Kill Chain, Endpoint security, Incident response, MITRE ATT&CK, SIEM, +4
 Salary:		 USD 47K - 87K *
 More info:	 https://isecjobs.com/job/310736-soc-analyst-splunk-es-remote/
-Job 19:
+
+--------------------------------------------------
+
+Job 27:
 Company:	 American Cancer Society
 Job Title:	 Security Analyst, Detection and Response - Remote
 Location:	 PA Home Based
-Skills:		 Analytics, Automation, Azure, Business Intelligence, CASB, CCSP, CISSP
+Skills:		 Analytics, Automation, Azure, Business Intelligence, CASB, CCSP, CISSP, +11
 Salary:		 USD 70K - 100K
 More info:	 https://isecjobs.com/job/304306-security-analyst-detection-and-response-remote/
-Job 20:
+
+--------------------------------------------------
+
+Job 28:
 Company:	 ManTech
 Job Title:	 Internal Controls Business Auditor
 Location:	 REMT - Remote Worker Location
-Skills:		 Audits, CIA, CISA, CISM, Clearance, Compliance, Computer Science
+Skills:		 Audits, CIA, CISA, CISM, Clearance, Compliance, Computer Science, +4
 Salary:		 USD 84K - 141K
 More info:	 https://isecjobs.com/job/303626-internal-controls-business-auditor/
-Job 21:
+
+--------------------------------------------------
+
+Job 29:
 Company:	 Cofense
 Job Title:	 Threat Analyst (US Remote)
 Location:	 Remote, United States
-Skills:		 Automation, AWS, CCSP, CEH, Computer Science, GCIA, Incident response
+Skills:		 Automation, AWS, CCSP, CEH, Computer Science, GCIA, Incident response, +2
 Salary:		 USD 56K - 105K *
 More info:	 https://isecjobs.com/job/302427-threat-analyst-us-remote/
-Job 22:
+
+--------------------------------------------------
+
+Job 30:
 Company:	 SIXGEN
 Job Title:	 Jr. Offensive Cyber Operator
 Location:	 Annapolis, Maryland
-Skills:		 Burp Suite, Clearance, Cobalt Strike, FISMA, Metasploit, NIST, Nmap
+Skills:		 Burp Suite, Clearance, Cobalt Strike, FISMA, Metasploit, NIST, Nmap, +5
 Salary:		 USD 35K - 83K *
 More info:	 https://isecjobs.com/job/301098-jr-offensive-cyber-operator/
-Job 23:
+
+--------------------------------------------------
+
+Job 31:
 Company:	 Centrica
 Job Title:	 Information Security Risk Analyst
 Location:	 UK - Home Based
-Skills:		 Cloud, Compliance, Encryption, IAM, IoT, NIST, Privacy
+Skills:		 Cloud, Compliance, Encryption, IAM, IoT, NIST, Privacy, +3
 Salary:		 GBP 29K - 55K *
 More info:	 https://isecjobs.com/job/296638-information-security-risk-analyst/
-Job 24:
+
+--------------------------------------------------
+
+Job 32:
 Company:	 Evolent
 Job Title:	 Security Analyst, Workday
 Location:	 Pune
-Skills:		 Automation
+Skills:		 Automation, Finance
 Salary:		 USD 25K - 46K *
 More info:	 https://isecjobs.com/job/295757-security-analyst-workday/
-Job 25:
+
+--------------------------------------------------
+
+Job 33:
 Company:	 CCBill
 Job Title:	 Information Security Analyst
 Location:	 Remote ,
-Skills:		 Antivirus, Automation, Computer Science, E-commerce, Ecommerce, Encryption, GDPR
+Skills:		 Antivirus, Automation, Computer Science, E-commerce, Ecommerce, Encryption, GDPR, +9
 Salary:		 USD 47K - 88K *
 More info:	 https://isecjobs.com/job/293667-information-security-analyst/
-Job 26:
+
+--------------------------------------------------
+
+Job 34:
 Company:	 CloudSEK
 Job Title:	 Hiring Cyber Security Sales Professionals (India & International Markets)
 Location:	 Remote or Office (Depending on Region)
-Skills:		 Artificial Intelligence, C, Cloud, Encryption, Machine Learning, Monitoring
+Skills:		 Artificial Intelligence, C, Cloud, Encryption, Machine Learning, Monitoring, Risk management
 Salary:		 USD 32K - 76K *
 More info:	 https://isecjobs.com/job/293018-hiring-cyber-security-sales-professionals-india-international-markets/
-Job 27:
+
+--------------------------------------------------
+
+Job 35:
 Company:	 Renaissance
 Job Title:	 Identity Access Engineer (Programmer Analyst I)
 Location:	 Remote, REMOTE, United States
-Skills:		 Active Directory, Audits, Automation, AWS, Azure, Bash, CI/CD
+Skills:		 Active Directory, Audits, Automation, AWS, Azure, Bash, CI/CD, +27
 Salary:		 USD 70K - 88K
 More info:	 https://isecjobs.com/job/286580-identity-access-engineer-programmer-analyst-i/
-Job 28:
+
+--------------------------------------------------
+
+Job 36:
 Company:	 Tecsys Inc.  Remote-first
 Job Title:	 Cyber Security Internship (Automne 2024) / Stage en cybersécurité (Fall 2024)
 Location:	 Montreal, Quebec, Canada - Remote
-Skills:		 Cloud, Compliance, Governance, IaaS, Linux, Malware, SaaS
+Skills:		 Cloud, Compliance, Governance, IaaS, Linux, Malware, SaaS, +4
 Salary:		 Not Specified
 More info:	 https://isecjobs.com/job/286079-cyber-security-internship-automne-2024-stage-en-cybersecurite-fall-2024/
-Job 29:
+
+--------------------------------------------------
+
+Job 37:
 Company:	 DXC Technology
 Job Title:	 Cloud Security Analyst
 Location:	 GB148 - GBR Virtual mobile worker (GB148)
-Skills:		 Ansible, Automation, AWS, Azure, Bash, CI/CD, Clearance
+Skills:		 Ansible, Automation, AWS, Azure, Bash, CI/CD, Clearance, +16
 Salary:		 GBP 19K - 45K *
 More info:	 https://isecjobs.com/job/280857-cloud-security-analyst/
-Job 30:
+
+--------------------------------------------------
+
+Job 38:
 Company:	 Trimble
 Job Title:	 Data Loss Prevention Analyst
 Location:	 US - Remote, CO
-Skills:		 Artificial Intelligence, Audits, Compliance, Computer Science, Governance, Incident response, Monitoring
+Skills:		 Artificial Intelligence, Audits, Compliance, Computer Science, Governance, Incident response, Monitoring, +4
 Salary:		 USD 35K - 83K *
 More info:	 https://isecjobs.com/job/273531-data-loss-prevention-analyst/
-Job 31:
+
+--------------------------------------------------
+
+Job 39:
 Company:	 Epiq
 Job Title:	 Compliance Analyst
 Location:	 USA- Kansas Remote Office
-Skills:		 Compliance, Governance, Monitoring, Privacy, Risk assessment
+Skills:		 Compliance, Governance, Monitoring, Privacy, Risk assessment, SharePoint
 Salary:		 USD 52K
 More info:	 https://isecjobs.com/job/272671-compliance-analyst/
-Job 32:
+
+--------------------------------------------------
+
+Job 40:
 Company:	 Second Front Systems
 Job Title:	 SOC Analyst- Skillbridge Internship
 Location:	 Remote
-Skills:		 Cloud, DevSecOps, Incident response, Monitoring, SaaS, SIEM, SOC
+Skills:		 Cloud, DevSecOps, Incident response, Monitoring, SaaS, SIEM, SOC, +1
 Salary:		 Not Specified
 More info:	 https://isecjobs.com/job/270979-soc-analyst-skillbridge-internship/
-Job 33:
+
+--------------------------------------------------
+
+Job 41:
 Company:	 edX
 Job Title:	 Cybersecurity Teaching Assistant with edX Bootcamps (Remote)
 Location:	 Remote - South Africa
-Skills:		 Bash, Burp Suite, CIA, Cloud, Compliance, Cryptography, Encryption
+Skills:		 Bash, Burp Suite, CIA, Cloud, Compliance, Cryptography, Encryption, +16
 Salary:		 USD 16K - 38K *
 More info:	 https://isecjobs.com/job/270963-cybersecurity-teaching-assistant-with-edx-bootcamps-remote/
-Job 34:
+
+--------------------------------------------------
+
+Job 42:
 Company:	 GoSecure
 Job Title:	 Penetration Tester (Remote option)
 Location:	 Montreal, QC, CA
-Skills:		 Clearance, Cloud, CVSS, Malware, OSCP, OWASP, Pentesting
+Skills:		 Clearance, Cloud, CVSS, Malware, OSCP, OWASP, Pentesting, +4
 Salary:		 CAD 76K - 141K *
 More info:	 https://isecjobs.com/job/270815-penetration-tester-remote-option/
-Job 35:
-Company:	 Humana
-Job Title:	 Senior Internal Auditor
-Location:	 Remote US
-Skills:		 Analytics, Audits, Business Intelligence, CIA, CISA, CISSP, Compliance
-Salary:		 USD 84K - 116K
-More info:	 https://isecjobs.com/job/265971-senior-internal-auditor/
-Job 36:
+
+--------------------------------------------------
+
+Job 43:
 Company:	 Humana
 Job Title:	 Internal Auditor 2
 Location:	 Remote US
-Skills:		 Analytics, Audits, Business Intelligence, CIA, CISA, CISSP, Data Analytics
+Skills:		 Analytics, Audits, Business Intelligence, CIA, CISA, CISSP, Data Analytics, +2
 Salary:		 USD 63K - 87K
 More info:	 https://isecjobs.com/job/265964-internal-auditor-2/
-Job 37:
+
+--------------------------------------------------
+
+Job 44:
 Company:	 YipitData
 Job Title:	 GRC (Governance, Risk, and Compliance) Analyst
 Location:	 US Remote
-Skills:		 Analytics, Audits, CISM, CISSP, Compliance, Computer Science, E-commerce
+Skills:		 Analytics, Audits, CISM, CISSP, Compliance, Computer Science, E-commerce, +10
 Salary:		 Not Specified
 More info:	 https://isecjobs.com/job/264680-grc-governance-risk-and-compliance-analyst/
-Job 38:
+
+--------------------------------------------------
+
+Job 45:
 Company:	 VENZA
 Job Title:	 Security Analyst
 Location:	 Remote
-Skills:		 Audits, Compliance, GDPR, PCI DSS, Pentesting, Risk assessment
+Skills:		 Audits, Compliance, GDPR, PCI DSS, Pentesting, Risk assessment, Security assessment
 Salary:		 USD 50K - 93K *
 More info:	 https://isecjobs.com/job/264284-security-analyst/
-Job 39:
+
+--------------------------------------------------
+
+Job 46:
 Company:	 Lendi Group
 Job Title:	 Cyber Defence Analyst
 Location:	 Remote, Philippines
-Skills:		 Analytics, APIs, Azure, EDR, Finance, Monitoring, Scripting
+Skills:		 Analytics, APIs, Azure, EDR, Finance, Monitoring, Scripting, +3
 Salary:		 USD 16K - 38K *
 More info:	 https://isecjobs.com/job/264167-cyber-defence-analyst/
-Job 40:
+
+--------------------------------------------------
+
+Job 47:
 Company:	 Hatch IT
 Job Title:	 Cyber Security Analyst
 Location:	 Remote
-Skills:		 Clearance, Compliance, Computer Science, DoD, Incident response, Monitoring, NIST
+Skills:		 Clearance, Compliance, Computer Science, DoD, Incident response, Monitoring, NIST, +5
 Salary:		 USD 39K - 72K *
 More info:	 https://isecjobs.com/job/264166-cyber-security-analyst/
-Job 41:
+
+--------------------------------------------------
+
+Job 48:
 Company:	 Hatch IT
 Job Title:	 Cyber Security Analyst/Information Assurance Engineer
 Location:	 Remote
-Skills:		 Clearance, Compliance, Computer Science, DoD, NIST, Privacy, Risk management
+Skills:		 Clearance, Compliance, Computer Science, DoD, NIST, Privacy, Risk management, +2
 Salary:		 USD 39K - 72K *
 More info:	 https://isecjobs.com/job/264165-cyber-security-analystinformation-assurance-engineer/
-Job 42:
+
+--------------------------------------------------
+
+Job 49:
 Company:	 Oportun
 Job Title:	 Security Analyst, DFIR (EnCase Specialist) - R12194
 Location:	 Remote MX
-Skills:		 Active Directory, APIs, APT, Automation, Autopsy, Banking, Bash
+Skills:		 Active Directory, APIs, APT, Automation, Autopsy, Banking, Bash, +39
 Salary:		 USD 55K - 102K *
 More info:	 https://isecjobs.com/job/263897-security-analyst-dfir-encase-specialist-r12194/
-Job 43:
+
+--------------------------------------------------
+
+Job 50:
 Company:	 QuoIntelligence
 Job Title:	 Cyber Threat Intelligence Analyst Intern (m/f/x) - Remote anywhere in Italy
 Location:	 Rome, Italy
-Skills:		 Computer Science, Cyber crime, Monitoring, OSINT, Scripting, Threat intelligence
+Skills:		 Computer Science, Cyber crime, Monitoring, OSINT, Scripting, Threat intelligence, TTPs
 Salary:		 Not Specified
 More info:	 https://isecjobs.com/job/262202-cyber-threat-intelligence-analyst-intern-mfx-remote-anywhere-in-italy/
-Job 44:
-Company:	 CrowdStrike  Remote-first
-Job Title:	 Intrusion Analyst (Remote)
-Location:	 USA TX Remote
-Skills:		 Cloud, CrowdStrike, Forensics, Linux, SOC, Threat intelligence, TTPs
-Salary:		 USD 95K - 155K
-More info:	 https://isecjobs.com/job/261369-intrusion-analyst-remote/
-Job 45:
-Company:	 Thrive
-Job Title:	 SOC  Analyst
-Location:	 United States - Remote
-Skills:		 APIs, Cloud, CompTIA, DNS, EDR, Exploits, Firewalls
-Salary:		 USD 50K - 70K
-More info:	 https://isecjobs.com/job/261172-soc-analyst/
-Job 46:
-Company:	 AssistRx
-Job Title:	 Security Analyst I ( remote )
-Location:	 Orlando, Florida, United States - Remote
-Skills:		 AWS, Azure, CISM, CISSP, Cloud, Compliance, Computer Science
-Salary:		 USD 55K - 102K *
-More info:	 https://isecjobs.com/job/260621-security-analyst-i-remote/
-Job 47:
-Company:	 Flexential
-Job Title:	 Incident Response Analyst II
-Location:	 SC - Remote
-Skills:		 Bash, Driver’s license, Firewalls, Incident response, ITIL, Linux, Monitoring
-Salary:		 USD 54K - 100K *
-More info:	 https://isecjobs.com/job/259210-incident-response-analyst-ii/
-Job 48:
-Company:	 BlueVoyant
-Job Title:	 Junior UX Designer for Cyber Defense Platform
-Location:	 United States - Remote
-Skills:		 Agile, Analytics, Compliance, Confluence, Cyber defense, Jira, Privacy
-Salary:		 USD 35K - 83K *
-More info:	 https://isecjobs.com/job/257867-junior-ux-designer-for-cyber-defense-platform/
-Job 49:
-Company:	 Alluvionic
-Job Title:	 GRC Analyst - CMMC Certified Cyber Security Professional
-Location:	 United States - Remote
-Skills:		 CISM, CISSP, CMMC, Compliance, DoD, ERP, Governance
-Salary:		 USD 57K - 106K *
-More info:	 https://isecjobs.com/job/257715-grc-analyst-cmmc-certified-cyber-security-professional/
-Job 50:
-Company:	 ManTech
-Job Title:	 Internal Controls IT Auditor
-Location:	 REMT - Remote Worker Location
-Skills:		 Audits, CISA, CISM, Clearance, Compliance, Computer Science, Finance
-Salary:		 USD 84K - 141K
-More info:	 https://isecjobs.com/job/256097-internal-controls-it-auditor/
+
+--------------------------------------------------
 
